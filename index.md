@@ -229,7 +229,6 @@ scheduled end time.</em></p>
       <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/03-expertise/index.html">Expertise and Teaching</a></td> </tr>
       <tr><td>Break</td> </tr>
       <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/05-memory/index.html">Memory and Cognitive Load</a></td> </tr>
-      <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/06-feedback/index.html">Building Skill With Feedback</a></td> </tr>
     </table>
   </div>
    <div class="col-md-6">
