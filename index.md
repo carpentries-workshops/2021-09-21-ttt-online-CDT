@@ -277,8 +277,8 @@ for more information.
   e.g., '2015-06-10-esu'.
 -->
 {% if page.etherpad %}
-<h2>Shared Notes</h2>
 <hr/>
+<h2>Shared Notes</h2>
 
 <p id="etherpad">
   <strong>Etherpad:</strong> <a href="{{page.etherpad}}">{{page.etherpad}}</a>.
