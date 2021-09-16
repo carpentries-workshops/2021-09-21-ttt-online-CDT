@@ -217,8 +217,6 @@ for more information.
 </p>
 
 
-<hr/>
-
 <!--
 
 <div class="row">
