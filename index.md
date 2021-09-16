@@ -232,6 +232,20 @@ scheduled end time.</em></p>
       <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/06-feedback/index.html">Building Skill With Feedback</a></td> </tr>
     </table>
   </div>
+   <div class="col-md-6">
+    <h3>Day 3</h3>
+        <table class="table table-striped">
+          <tr><td>Recap of Day 2</td> </tr>
+          <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/14-live/index.html">Live Coding is a Skill</a></td> </tr>
+          <tr><td>Break</td> </tr>
+          <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/17-performance/index.html">More Practice Live Coding</a></td> </tr>
+          <tr><td>Break</td> </tr>
+          <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/18-management/index.html">Managing a Diverse Classroom</a></td> </tr>
+        </table>
+  </div>
+</div>
+
+<div class="row">
   <div class="col-md-6">
     <h3>Day 2</h3>
     <table class="table table-striped">
@@ -242,20 +256,6 @@ scheduled end time.</em></p>
       <tr><td>Break</td> </tr>
       <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/12-homework/index.html">Wrap-Up and Homework for Tomorrow</a></td> </tr>
    </table>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-md-6">
-    <h3>Day 3</h3>
-        <table class="table table-striped">
-          <tr><td>Recap of Day 2</td> </tr>
-          <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/14-live/index.html">Live Coding is a Skill</a></td> </tr>
-          <tr><td>Break</td> </tr>
-          <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/17-performance/index.html">More Practice Live Coding</a></td> </tr>
-          <tr><td>Break</td> </tr>
-          <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/18-management/index.html">Managing a Diverse Classroom</a></td> </tr>
-        </table>
   </div>
   <div class="col-md-6">
     <h3>Day 4</h3>
