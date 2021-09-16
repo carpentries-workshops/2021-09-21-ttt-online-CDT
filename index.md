@@ -263,8 +263,8 @@ scheduled end time.</em></p>
           <tr><td>Break</td> </tr>
           <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/20-checkout/index.html">Checkout Process and Q & A session</a></td> </tr>
           <tr><td>Break</td> </tr>
-          <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/24-practices/index.html">Putting It Together</a></td> </tr>
-          <tr><td>Wrap-up & <a target="_blank" href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">Post-Workshop Survey</a></td> </tr>
+          <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/23-introductions/index.html">Workshop Introductions</a></td> </tr>
+          <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/24-practices/index.html">Putting It Together</a> & <a target="_blank" href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">Post-Workshop Survey</a></td> </tr>
     </table>
   </div>
 </div>
