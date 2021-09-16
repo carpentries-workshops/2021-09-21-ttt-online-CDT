@@ -294,7 +294,7 @@ scheduled end time.</em></p>
 </p>
 
 {% endif %}
-
+<hr/>
 <h2 id="pre_workshop_survey">Surveys</h2>
 
 <p>
