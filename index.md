@@ -213,7 +213,7 @@ for more information.
 <h2 id="materials" name="materials">Training Materials and Schedule</h2>
 
 <p>
-  Please see <a href="{{ site.training_site }}">this site</a> for full course materials.
+  Please see the <a href="{{ site.training_site }}">full Instructor Training course material</a> to be used in the workshop.
 </p>
 <p><em>Schedule below is tentative - we will try to keep to it as much as possible but we may not be able to stick to it 
 100%. There will, however, be regular breaks - approximately after each hour of teaching, and we won't go over the 
