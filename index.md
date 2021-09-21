@@ -250,6 +250,7 @@ scheduled end time.</em></p>
     <table class="table table-striped">
       <tr><td>Recap of Day 1</td> </tr>
       <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/08-motivation/index.html">Motivation and Demotivation</a></td> </tr>
+      <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/09-mindset/index.html">Mindset</a></td> </tr>
       <tr><td>Break</td> </tr>
       <tr><td><a target="_blank" href="https://carpentries.github.io/instructor-training/11-practice-teaching/index.html">Teaching is a (Learned) Skill: Building Teaching Skill With Practice</a></td> </tr>      
       <tr><td>Break</td> </tr>
